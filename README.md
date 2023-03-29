@@ -8,7 +8,7 @@ Here's a walkthrough shows the game:
 
 <img src="example1.png" />
 
-==================================================
+
 <img src="example2.png" />
 <!-- Replace this with whatever GIF tool you used! -->
 
